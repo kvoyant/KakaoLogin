@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">com.yhkim.kakaologin</string>
+    <string name="kakao_app_key">650fd4dfb1acc4e2c67875f9607278bf</string>
+</resources>
