@@ -26,5 +26,5 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     // 카카오 로그인 sdk를 사용하기 위해 필요.
-    api group: 'com.kakao.sdk', name: 'usermgmt', version: '1.14.0'
+    api group: 'com.kakao.sdk', name: 'usermgmt', version: '1.17.0'
 }
